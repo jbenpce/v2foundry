@@ -6,7 +6,9 @@ doing it.
 
 **The place is the Foundry. The thing you build there is your 2.x.**
 
-- **Who it is for:** 25 to 35, early career, no base yet.
+- **Who it is for:** geographically mobile English-speaking 25 to 35 year olds.
+  Remote workers, people on European inbound regimes, Americans and Brits who
+  left. Their career is already not a ladder, so the thesis needs no selling.
 - **Doctrine:** GenXAlpha — the writing, free, always.
 - **Home:** v2foundry.com
 - **Status:** Phase 0, pre-build. Nothing has shipped.
@@ -29,6 +31,11 @@ has no wealth yet, at the age where it still compounds.
 | **Capital** | Runway, buffer, wrappers, structure, the architecture nobody teaches |
 | **Body** | Sleep, food, training, substances — the base every other sheet draws on |
 | **Mind** | Attention, philosophy, relationships, the story you are running on |
+
+The Capital sheet is a universal spine plus a thin **jurisdiction pack**: the
+questions and scoring are identical everywhere, and only the named instruments
+change. Three packs at launch, being the United States, the United Kingdom, and a
+generic European fallback.
 
 The **Energy Index** is the composite reading across all four, scored quarterly.
 Energy, not time or money, is the scarce resource at this age, and it is the only

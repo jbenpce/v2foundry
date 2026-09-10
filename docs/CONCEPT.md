@@ -2,7 +2,8 @@
 
 **Status:** working draft, 10 September 2026
 **Origin:** whiteboard sketch, late 2025
-**First user:** 25 to 35, early career, no base yet
+**First user:** 25 to 35, mobile, English-speaking
+**Reach:** global English, Americas and Europe first
 **Funding:** founder, patient, no return required
 
 ---
@@ -97,6 +98,69 @@ is your runway. **Energy Index** is internal: what capacity do you actually have
 to act on any of it. A strong position with no energy is a plan that never
 executes. Strong energy with no position is motion without direction.
 
+## Ground — where it lives
+
+**Global English is right, provided you pick the right global.** The wrong global
+is everybody who speaks English, which is nobody in particular and reachable by
+nothing. The right global is already sitting in the founder's own life.
+
+Geographically mobile English-speaking 25 to 35 year olds. Remote workers, people
+on the Portuguese and Italian inbound regimes, Americans who left, Brits who
+left, people whose employer is in one country and whose bed is in another. They
+are scattered, which is why nobody serves them, and they live online, which is
+why you can reach them without buying a single piece of national media.
+
+They are also the best possible first audience for this thesis, because their
+career is already not a ladder. You do not have to convince them the old path is
+gone. They left it.
+
+- **Self-selecting.** They already made one non-standard move, which is most of
+  the distance to accepting a non-standard plan.
+- **Reachable.** No local gatekeeper, no national press to buy. They live in
+  exactly the channels the doctrine will live in.
+- **Under-served.** Advisers in each country competently handle one side of their
+  life and are useless on the other.
+- **Already paying.** Cross-border anything has no free option, so the reflex to
+  pay for help exists before you arrive.
+
+> Mobility is a move, not a lifestyle.
+
+Geography is one of the very few levers a twenty-seven year old genuinely
+controls. Earning in a strong market while living in a cheap one is real
+arbitrage, it is available immediately, and it closes slowly rather than
+suddenly. That belongs on the Work and Capital sheets as a strategy, not in a
+lifestyle section, and it needs saying without any of the hustle vocabulary that
+has made the entire subject sound like a scam.
+
+### How the Capital sheet survives going global
+
+The architecture is universal and only the instruments are local. Runway in
+months, savings rate, buffer, whether anything compounds, whether anything is
+owned, what the tax drag is: those questions are identical in Lisbon and Chicago.
+Only the wrapper names and the limits change.
+
+So build the Capital sheet as a **universal spine plus a thin jurisdiction
+pack**. Roughly twenty data points per jurisdiction, held as data rather than
+code, so adding one is an afternoon rather than a release. Three at launch:
+United States, United Kingdom, and a generic European fallback. Add the fourth
+once the diagnostic says which one people keep selecting.
+
+### And one badly served group is already in the room
+
+Americans abroad. Citizenship-based taxation, FATCA, PFIC rules that make
+ordinary European funds radioactive, and annual filing that never stops. US
+advisers do not understand Europe, European advisers do not understand US filing,
+and the people caught between them are permanently anxious and permanently
+unhelped. The founder is one of them. That is authority that cannot be
+manufactured, a strong first jurisdiction pack, and probably the best available
+opening piece of writing.
+
+The cost of all this is regulatory. Cross-border money guidance is exactly where
+people get hurt and exactly where the line between education and advice is
+hardest to hold. Going multi-jurisdiction multiplies both the number of
+regulators and the number of ways to be wrong, which moves the legal review from
+a Phase 2 item to a gate on the Capital sheet shipping at all.
+
 ## Parts — doctrine, foundry, circle
 
 **GenXAlpha, the doctrine.** The writing, free. Gen X pragmatism addressed to the
@@ -180,7 +244,11 @@ which is who turns up and what they are genuinely frightened of. See
 [`PHASE-0.md`](PHASE-0.md).
 
 **Phase 1 — 3 to 9 months. One cohort, run personally, three times.**
-Around twenty people, eight to twelve weeks, priced properly. Not primarily a
+Around twenty people, eight to twelve weeks, priced properly. Run cohorts in
+timezone bands rather than globally, Americas and Europe first, which is the band
+the founder already lives in. A live cohort spanning Pacific to Singapore does
+not work, and pretending otherwise wastes the one cohort you most need to learn
+from. Not primarily a
 revenue play; the fastest available truth machine. One cohort teaches more about
 what to build than a year of building. Run it three times before concluding
 anything: the first is theatre, the second is learning, the third is signal.
@@ -202,10 +270,13 @@ about.
 |---|---|---|---|
 | Doctrine | Nobody | Free | 0 |
 | Diagnostic | Nobody | Free | 0 |
-| Cohort | Participant or parent | £800 to £2,000 | 1 |
-| Foundry | Participant or parent | £15 to £30 / mo | 2 |
+| Cohort | Participant or parent | $1,000 to $2,500 | 1 |
+| Foundry | Participant or parent | $19 to $39 / mo | 2 |
 | Circle | Included, mentors unpaid | Bundled | 2 |
 | Institutional | Universities, bodies, employers | Per cohort | 3 |
+
+Priced in dollars because the audience is global and the founder is American.
+Local pricing is a Phase 2 problem and a small one.
 
 Read that table knowing the founder is also the funder and needs none of it. The
 prices exist to filter and to measure, not to fund a life.
@@ -235,7 +306,7 @@ optimism with a plan attached.
 
 **Willingness to pay.** This age group is famously unwilling to pay for advice
 and equally famously willing to pay for a gym.
-*Disproof: if cohort one cannot sell fifteen seats at £800 to a warm audience,
+*Disproof: if cohort one cannot sell fifteen seats at $1,000 to a warm audience,
 the direct consumer thesis is wrong. Pivot the payer to parents or institutions.
 Do not lower the price.*
 
@@ -251,11 +322,12 @@ active mentors within two cohorts of launching, it stays a cohort feature rather
 than a marketplace.*
 
 **Regulatory edge.** Anything touching a consumer's money sits one bad sentence
-away from regulated financial advice, and the Capital sheet is the most valuable
-part of the product.
-*Keep it education and tooling, state the line explicitly in the product, and get
-it reviewed before Phase 2 rather than after. Being early costs almost nothing;
-being late costs everything.*
+away from regulated financial advice, and the Capital sheet is both the most
+valuable part of the product and now multi-jurisdiction.
+*Legal review is a gate on the Capital sheet shipping, not a Phase 2 item. Until
+it clears, the Capital sheet ships as questions, structure and general education
+with no jurisdiction-specific recommendation attached. Being early costs almost
+nothing; being late costs everything.*
 
 **No forcing function.** The freedom not to need revenue is also the freedom
 never to ship.
@@ -287,9 +359,10 @@ evidence before claims — and leave the rest where it belongs.
 - **Naming is settled, it just was not noticed.** The Foundry is the place. Your
   2.x is the thing you build there. GenXAlpha stays the byline on the writing,
   because a doctrine needs an author and a product does not.
-- **Geography.** UK-first makes the Capital sheet specific, useful and
-  defensible. Global-first keeps it generic and much weaker. UK-first unless
-  there is a reason not visible from here.
+- **Where the doctrine lives.** Your own domain gives ownership and no
+  distribution. An existing publishing platform gives distribution and no
+  ownership. For Phase 0 the answer is almost certainly distribution first, but
+  decide it rather than drifting into it.
 - **The kids.** Design partners, or the reason it stays honest? Genuinely an
   advantage and genuinely a way to lose objectivity. Choose deliberately, and
   tell them which one they are.
