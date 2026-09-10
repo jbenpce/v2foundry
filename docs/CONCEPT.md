@@ -1,0 +1,302 @@
+# Life 2.x — concept brief
+
+**Status:** working draft, 10 September 2026
+**Origin:** whiteboard sketch, late 2025
+**First user:** 25 to 35, early career, no base yet
+**Funding:** founder, patient, no return required
+
+---
+
+## Origin — the board
+
+A year ago the sketch put *Life 2.x* at the centre, with Career, Investments and
+Mind/Body coming off it, and an *Energy index* floating at the top. That
+structure holds. Almost nobody in this market gets it right, because almost
+everybody sells one spoke.
+
+What the board did not say is who it is for, what they pay for, or what makes it
+a business rather than a guide. A guide is a PDF.
+
+- **Keep the four domains.** Career, capital and body/mind are coupled. Fixing
+  work while broke and sleepless does not work, which is why single-spoke advice
+  fails so reliably.
+- **Keep the Energy index.** The sharpest idea on the board, and the only measure
+  that spans all four domains, which makes it the return metric.
+- **Split Mind from Body.** They share a mood and nothing else. Different
+  interventions, different evidence, different failure modes.
+- **Name the customer.** 25 to 35. That single decision changes the product more
+  than any other choice in this document.
+
+## Thesis — what broke
+
+For thirty years the deal was simple: do the junior work, absorb judgment by
+proximity, climb. The junior work was never the point. It was the tuition.
+
+Models now do first-pass research, drafting, comps, boilerplate code,
+deck-building and summarisation at close to zero marginal cost. The tasks are
+gone. The apprenticeship that lived inside those tasks went with them, and the
+rungs above still demand exactly the judgment those tasks used to manufacture.
+
+| The deal, until recently | The deal now |
+|---|---|
+| Partner / Principal | Partner / Principal |
+| Director | Director |
+| Manager | Manager |
+| Analyst | *(no route up)* |
+| Trainee | ~~Analyst~~ |
+| | ~~Trainee~~ |
+
+This is not the Gen X displacement story and should not be sold as one. A
+fifty-five year old made redundant has equity, a pension, a network and thirty
+years of pattern recognition. A twenty-eight year old has none of those and is
+competing against people who do, on ground that keeps moving.
+
+> One generation lost its job. The next one lost the way in.
+
+## Bet — the mechanism
+
+**Give a twenty-eight year old the operating model of a family office.**
+
+Wealthy families have run the same system for two hundred years: a long horizon,
+a capital plan, an entity structure, trusted advisers, governance, succession,
+and a formal review every quarter. It is not a product. It is a way of holding a
+life together across decades and shocks.
+
+Nobody runs that for someone with thirty thousand pounds, an unstable income and
+fifty years ahead of them. That is the gap, and the one place where AEGISfo is an
+unfair advantage rather than an unrelated side project. The machinery exists. It
+has simply never been pointed downmarket and forward in time.
+
+When execution gets cheap, two things stay scarce: **ownership** and
+**judgment**. Everything in this product must serve one of those two. Anything
+that serves neither gets cut.
+
+## System — four sheets and one return metric
+
+A family office does not manage money, it manages a whole position. Life 2.x does
+the same across four sheets, each with a real state, a real trajectory and a small
+number of moves that change it.
+
+1. **Work** — task-surface exposure, trust premium, and whether you own any part
+   of what you make. Skills that compound versus skills that decay.
+2. **Capital** — runway in months, buffer, tax wrappers, entity structure, and
+   the boring architecture nobody was ever taught.
+3. **Body** — sleep, food, training and substances. The physical base every other
+   sheet draws its capacity from.
+4. **Mind** — attention, philosophy, relationships and the story you are running
+   on. What decides whether a plan survives contact with a bad month.
+
+**Energy Index** — the composite reading across all four sheets, scored
+quarterly. Energy, not time or money, is the genuinely scarce resource at this
+age. It is also the only number that moves when the whole system improves, which
+makes it both the return metric and the reason to come back.
+
+Two readings come out of the diagnostic and they answer different questions.
+**Position** is external: how exposed is your work, how much do you own, how long
+is your runway. **Energy Index** is internal: what capacity do you actually have
+to act on any of it. A strong position with no energy is a plan that never
+executes. Strong energy with no position is motion without direction.
+
+## Parts — doctrine, foundry, circle
+
+**GenXAlpha, the doctrine.** The writing, free. Gen X pragmatism addressed to the
+generation inheriting the machines. A voice that has watched a dot-com bust, a
+financial crisis and two decades of confident predictions that were wrong: not
+panicking, not promising, showing what actually holds. Its job is worldview and
+trust, not revenue.
+
+**The Foundry, the system.** Live at v2foundry.com. Where the four sheets get
+assessed, planned and reviewed. It produces a Position and an Energy Index, a
+short list of moves, one owned asset under construction, and a quarterly review
+run like an investment committee on your own life.
+
+**The Circle, the transfer.** The missing apprenticeship, rebuilt deliberately.
+Judgment does not come from a course. It comes from being close to somebody who
+has it, watching them decide, and being handed real consequences.
+
+## Exchange — both sides
+
+| Supply side, 50 to 65 | Demand side, 25 to 35 |
+|---|---|
+| Holds pattern recognition, a network, the memory of three downturns, and the scar tissue of decisions that went badly. | Holds native fluency with the tools, no habits to unlearn, and fifty years of horizon to compound anything into. |
+| **Needs to still matter.** | **Needs someone who has already been there.** |
+
+Neither side can buy what the other has, which is the only durable kind of
+marketplace. It also answers the strategic question buried in the original brief:
+what happens to the displaced senior professionals. They become the supply side.
+They are not the customer, they are the asset.
+
+**And the payer is probably neither of them acting alone.** Willingness to pay
+between 25 and 35 is the single biggest commercial risk here. The person most
+likely to pay for a twenty-seven year old's relaunch is their fifty-five year old
+parent, who is precisely the existing readership. Design the purchase for two
+people: the child uses it, the parent buys it, and neither finds that
+embarrassing.
+
+## Stance — the real edge
+
+**Not needing this to make money is worth considerably more than money.**
+
+Every other entrant in this category is selling urgency, because they need the
+sale. That is precisely why the field smells wrong to the people it claims to
+serve, and those people are twenty-eight with finely tuned instruments for
+detecting it. A founder who visibly does not need the revenue can say the
+commercially inconvenient thing. In a market this saturated with fear-marketing,
+being trustworthy is not a virtue, it is the differentiation.
+
+- **Say true things.** Including that somebody does not need this product, or
+  that their career is fine and they should stay in it.
+- **Run the sequence properly.** Three cohorts before productising is obviously
+  correct and almost nobody can afford it.
+- **Price as an instrument.** Set the number to filter for commitment and to
+  measure whether the value is real, not to cover rent.
+- **Refuse the bad money.** No upsell ladder, no manufactured scarcity, no
+  investor who needs a category-defining outcome by 2029.
+
+**The trap.** Not needing the money is also the most common way a project like
+this quietly dies. No revenue means no forcing function and no signal. A free
+product gets free attention and zero commitment, and an empty room teaches
+nothing. So charge anyway, and be honest about why: someone who paid turns up on
+week six.
+
+Then endow it properly. Decide the budget and the weekly hours up front, in
+writing, exactly as you would when funding somebody else's venture. An unbounded
+side project loses every argument with a live family-office platform, and it will
+have those arguments weekly.
+
+**You cannot mentor your own children.** Nobody can — advice from a parent
+arrives pre-discounted at source. This is exactly why the Circle is the mechanism
+rather than a feature. The goal is not a product that helps your children. It is
+a room that other people's judgment walks into, which your children can then
+stand in.
+
+## Sequence
+
+**Phase 0 — 0 to 3 months. Doctrine, plus one sharp free diagnostic.**
+Publish the argument. Ship one public tool that gives a real and slightly
+uncomfortable answer in five minutes: Position, Energy Index, three moves. Cheap
+to build, immediately shareable, and it collects the only thing needed right now,
+which is who turns up and what they are genuinely frightened of. See
+[`PHASE-0.md`](PHASE-0.md).
+
+**Phase 1 — 3 to 9 months. One cohort, run personally, three times.**
+Around twenty people, eight to twelve weeks, priced properly. Not primarily a
+revenue play; the fastest available truth machine. One cohort teaches more about
+what to build than a year of building. Run it three times before concluding
+anything: the first is theatre, the second is learning, the third is signal.
+
+**Phase 2 — 9 to 24 months. Productise only what repeated.**
+Build the Foundry on the AEGISfo spine, covering only the parts that showed up in
+all three cohorts. Everything else stays human or gets dropped. The Circle opens
+once there are enough graduates to seed the demand side.
+
+Platform-first on an unproven thesis costs twelve months and produces a beautiful
+answer to a question nobody asked. Media-only never generates the feedback loop
+that tells you what to build. Cohorts sit between the two, pay for themselves,
+and are the only format that puts you in a room with the person you are guessing
+about.
+
+## Model — revenue layers by phase
+
+| Layer | Who pays | Price | Phase |
+|---|---|---|---|
+| Doctrine | Nobody | Free | 0 |
+| Diagnostic | Nobody | Free | 0 |
+| Cohort | Participant or parent | £800 to £2,000 | 1 |
+| Foundry | Participant or parent | £15 to £30 / mo | 2 |
+| Circle | Included, mentors unpaid | Bundled | 2 |
+| Institutional | Universities, bodies, employers | Per cohort | 3 |
+
+Read that table knowing the founder is also the funder and needs none of it. The
+prices exist to filter and to measure, not to fund a life.
+
+The institutional line deserves more attention than its position suggests.
+Employers spent three years dismantling their own junior pipelines and are now
+discovering a five-year hole where their next seniors were supposed to come from.
+Some of them will pay to fix it. That channel is also the fallback if the
+consumer thesis fails.
+
+## Edge — why this is not another AI career coach
+
+- **The capital frame.** Nobody else is bringing family-office architecture to
+  someone with thirty thousand pounds. Everyone else sells CV rewrites and prompt
+  libraries.
+- **The supply side.** A real network of displaced senior operators is slow to
+  assemble and impossible to fake. It is the moat, and the part to start first.
+- **Actual engineering.** AEGISfo is a working multi-tenant platform with an
+  engineering constitution, not a chat wrapper with a waitlist.
+- **An author.** A body of writing and a voice that predates the trend. Cannot be
+  bought at any price, and already exists.
+
+## Risk — kill criteria
+
+Each risk gets a disproof rather than a mitigation, because a mitigation is
+optimism with a plan attached.
+
+**Willingness to pay.** This age group is famously unwilling to pay for advice
+and equally famously willing to pay for a gym.
+*Disproof: if cohort one cannot sell fifteen seats at £800 to a warm audience,
+the direct consumer thesis is wrong. Pivot the payer to parents or institutions.
+Do not lower the price.*
+
+**Doom drift.** Prophecy is easy to write, ages badly, and attracts an audience
+that wants to be frightened rather than helped.
+*Rule: every published piece ends with something the reader can do on Monday. No
+exceptions, including the ones that feel important.*
+
+**Marketplace cold start.** The Circle needs mentors before it has users and
+users before it has mentors.
+*Seed from cohort graduates; be mentor zero. If the Circle has not reached ten
+active mentors within two cohorts of launching, it stays a cohort feature rather
+than a marketplace.*
+
+**Regulatory edge.** Anything touching a consumer's money sits one bad sentence
+away from regulated financial advice, and the Capital sheet is the most valuable
+part of the product.
+*Keep it education and tooling, state the line explicitly in the product, and get
+it reviewed before Phase 2 rather than after. Being early costs almost nothing;
+being late costs everything.*
+
+**No forcing function.** The freedom not to need revenue is also the freedom
+never to ship.
+*Endow it formally: fixed budget and fixed weekly hours, written down before
+Phase 0 starts. If Phase 0 has not published the doctrine and the diagnostic
+within three months of those hours being allocated, the constraint is attention
+rather than money, and no amount of patient capital fixes that.*
+
+**Founder concentration.** Doctrine, cohorts and mentoring are currently one
+person who already runs a family-office platform.
+*Phase 2 exists to remove the founder from two of the three. If after three
+cohorts nothing has become teachable by somebody else, this is a practice rather
+than a company. A legitimate outcome, but decide it deliberately.*
+
+## Spine — what to build on
+
+A sibling, not a module. Build in this repository as its own application,
+deployed to v2foundry.com. Reuse the authentication, tenancy, document and data
+patterns AEGISfo has proved, because those took months and they work.
+
+Do not import the family-office release gates wholesale. A consumer product that
+ships weekly cannot carry a constitution written to protect custody data, and
+forcing it to will quietly kill the pace this concept depends on. Carry the two
+disciplines that genuinely transfer — one canonical owner for every rule, and
+evidence before claims — and leave the rest where it belongs.
+
+## Open decisions
+
+- **Naming is settled, it just was not noticed.** The Foundry is the place. Your
+  2.x is the thing you build there. GenXAlpha stays the byline on the writing,
+  because a doctrine needs an author and a product does not.
+- **Geography.** UK-first makes the Capital sheet specific, useful and
+  defensible. Global-first keeps it generic and much weaker. UK-first unless
+  there is a reason not visible from here.
+- **The kids.** Design partners, or the reason it stays honest? Genuinely an
+  advantage and genuinely a way to lose objectivity. Choose deliberately, and
+  tell them which one they are.
+
+---
+
+> Every generation gets handed a machine and told it will take the work. This is
+> the first one where they may be right about the entry level. The answer is not
+> to climb faster. It is to own something and to know something, and to start
+> both at twenty-seven instead of forty-seven.
