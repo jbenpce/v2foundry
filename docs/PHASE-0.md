@@ -23,10 +23,15 @@ only produces a comfortable fiction.
 
 ## What ships
 
+Everything in Phase 0 ships on **life2x.xyz**. v2foundry.com stays parked and
+redirected until there is something to buy, which is Phase 2. Transactional email
+sends from the `.com` regardless, for deliverability.
+
 ### 1. The doctrine — GenXAlpha
 
 Eight to twelve published pieces, one voice, no paywall, no email gate on the
-writing itself.
+writing itself. Published canonically on life2x.xyz and syndicated outward, with
+the canonical link pointing home.
 
 The argument, in order:
 
@@ -130,7 +135,7 @@ first, which is useful information and a different build order.
   lands first. It can ship as questions and structure with no jurisdiction
   specific recommendation while that review is outstanding, and that is probably
   the right call.
-- Where the writing lives. Own domain, or an existing publishing platform for
-  distribution first and ownership later.
+- Which syndication platform carries the writing outward. The canonical home is
+  settled; the distribution channel is not.
 - Whether the diagnostic is a static page or needs a backend on day one. Prefer
   static until the return-visit loop is proved.

@@ -5,6 +5,7 @@
 **First user:** 25 to 35, mobile, English-speaking
 **Reach:** global English, Americas and Europe first
 **Funding:** founder, patient, no return required
+**Properties:** life2x.xyz and v2foundry.com, both owned
 
 ---
 
@@ -177,6 +178,35 @@ run like an investment committee on your own life.
 **The Circle, the transfer.** The missing apprenticeship, rebuilt deliberately.
 Judgment does not come from a course. It comes from being close to somebody who
 has it, watching them decide, and being handed real consequences.
+
+### Where each of these lives
+
+| Name | Job | Home | Stands up |
+|---|---|---|---|
+| GenXAlpha | The byline on the writing | Nowhere. It is an author, not a site. | Now |
+| Life 2.x | Doctrine and the free diagnostic | life2x.xyz | Phase 0 |
+| V2 Foundry | Product, accounts, payment, the Circle | v2foundry.com | Phase 2 |
+
+Sequence the properties exactly as you sequence the phases. Phase 0 is doctrine
+plus one free diagnostic. Both are free, both are the same idea, so both belong
+on one domain, and that domain is the one named after the idea. Park
+v2foundry.com and point it at the other until there is something to buy.
+
+The unusual extension is an asset rather than a compromise. Life 2.x on a `.xyz`
+reads as a version string, which is exactly the thesis: your life is a product
+and you are shipping point releases of it. When money enters, the calculus flips.
+The likely payer is a fifty-five year old parent, and a parent typing card
+details into a `.xyz` converts worse than one typing them into a `.com`. That is
+measurable rather than snobbery, and it is why the two properties eventually do
+different jobs.
+
+Send every transactional and newsletter email from the `.com` regardless of which
+site the reader is standing on. A minority of corporate mail filters still treat
+the newer extensions harshly, and the deliverability of a diagnostic result is
+not worth gambling on.
+
+**Do not buy GenXAlpha a domain.** Three properties for one founder with limited
+hours is how a project dies of admin rather than of being wrong.
 
 ## Exchange — both sides
 
@@ -359,10 +389,15 @@ evidence before claims — and leave the rest where it belongs.
 - **Naming is settled, it just was not noticed.** The Foundry is the place. Your
   2.x is the thing you build there. GenXAlpha stays the byline on the writing,
   because a doctrine needs an author and a product does not.
-- **Where the doctrine lives.** Your own domain gives ownership and no
-  distribution. An existing publishing platform gives distribution and no
-  ownership. For Phase 0 the answer is almost certainly distribution first, but
-  decide it rather than drifting into it.
+- **Ownership versus distribution, now the domain question is settled.** Publish
+  canonically on life2x.xyz and syndicate to whichever platform holds the
+  readers, canonical link pointing home. You get the distribution and keep the
+  asset. It costs only the discipline of always publishing to your own site
+  first.
+- **Whether the Capital sheet ships in Phase 0 at all.** It can go out as
+  questions and structure with no jurisdiction-specific recommendation while the
+  legal review is outstanding, which is probably right, or it can wait. Decide
+  before the diagnostic is built, because it changes what the questions are for.
 - **The kids.** Design partners, or the reason it stays honest? Genuinely an
   advantage and genuinely a way to lose objectivity. Choose deliberately, and
   tell them which one they are.

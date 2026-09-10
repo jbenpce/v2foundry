@@ -10,7 +10,9 @@ doing it.
   Remote workers, people on European inbound regimes, Americans and Brits who
   left. Their career is already not a ladder, so the thesis needs no selling.
 - **Doctrine:** GenXAlpha — the writing, free, always.
-- **Home:** v2foundry.com
+- **Properties:** life2x.xyz for the doctrine and free diagnostic from Phase 0;
+  v2foundry.com for the product, accounts and payment from Phase 2. GenXAlpha is
+  a byline, not a website.
 - **Status:** Phase 0, pre-build. Nothing has shipped.
 
 ## The one-paragraph version
