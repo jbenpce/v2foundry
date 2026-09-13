@@ -4,15 +4,14 @@ A holistic system for rebuilding a life — work, capital, body and mind — for
 first generation whose entry-level work was automated before they finished
 doing it.
 
-**The place is the Foundry. The thing you build there is your 2.x.**
+**The Foundry is where you go. Your v2 is what you build there.**
 
 - **Who it is for:** geographically mobile English-speaking 25 to 35 year olds.
   Remote workers, people on European inbound regimes, Americans and Brits who
   left. Their career is already not a ladder, so the thesis needs no selling.
 - **Doctrine:** GenXAlpha — the writing, free, always.
-- **Properties:** life2x.xyz for the doctrine and free diagnostic from Phase 0;
-  v2foundry.com for the product, accounts and payment from Phase 2. GenXAlpha is
-  a byline, not a website.
+- **Property:** v2foundry.com, one domain for everything. life2x.xyz redirects to
+  it and holds the retired working title. GenXAlpha is a byline, not a website.
 - **Status:** Phase 0, pre-build. Nothing has shipped.
 
 ## The one-paragraph version

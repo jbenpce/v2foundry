@@ -23,15 +23,14 @@ only produces a comfortable fiction.
 
 ## What ships
 
-Everything in Phase 0 ships on **life2x.xyz**. v2foundry.com stays parked and
-redirected until there is something to buy, which is Phase 2. Transactional email
-sends from the `.com` regardless, for deliverability.
+Everything in Phase 0 ships on **v2foundry.com**, which is the only property.
+life2x.xyz redirects to it and carries the retired working title.
 
 ### 1. The doctrine — GenXAlpha
 
 Eight to twelve published pieces, one voice, no paywall, no email gate on the
-writing itself. Published canonically on life2x.xyz and syndicated outward, with
-the canonical link pointing home.
+writing itself. Published canonically on v2foundry.com and syndicated outward,
+with the canonical link pointing home.
 
 The argument, in order:
 

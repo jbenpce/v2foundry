@@ -1,11 +1,11 @@
-# Life 2.x — concept brief
+# V2 Foundry — concept brief
 
 **Status:** working draft, 10 September 2026
 **Origin:** whiteboard sketch, late 2025
 **First user:** 25 to 35, mobile, English-speaking
 **Reach:** global English, Americas and Europe first
 **Funding:** founder, patient, no return required
-**Properties:** life2x.xyz and v2foundry.com, both owned
+**Property:** v2foundry.com, with life2x.xyz redirecting
 
 ---
 
@@ -75,8 +75,8 @@ that serves neither gets cut.
 
 ## System — four sheets and one return metric
 
-A family office does not manage money, it manages a whole position. Life 2.x does
-the same across four sheets, each with a real state, a real trajectory and a small
+A family office does not manage money, it manages a whole position. The Foundry
+does the same across four sheets, each with a real state, a real trajectory and a small
 number of moves that change it.
 
 1. **Work** — task-surface exposure, trust premium, and whether you own any part
@@ -184,29 +184,35 @@ has it, watching them decide, and being handed real consequences.
 | Name | Job | Home | Stands up |
 |---|---|---|---|
 | GenXAlpha | The byline on the writing | Nowhere. It is an author, not a site. | Now |
-| Life 2.x | Doctrine and the free diagnostic | life2x.xyz | Phase 0 |
-| V2 Foundry | Product, accounts, payment, the Circle | v2foundry.com | Phase 2 |
+| V2 Foundry | Everything. Doctrine, diagnostic, cohorts, accounts, the Circle. | v2foundry.com | Phase 0 |
+| Life 2.x | Retired working title. Survives as the product noun. | life2x.xyz redirects | Retired |
 
-Sequence the properties exactly as you sequence the phases. Phase 0 is doctrine
-plus one free diagnostic. Both are free, both are the same idea, so both belong
-on one domain, and that domain is the one named after the idea. Park
-v2foundry.com and point it at the other until there is something to buy.
+One name and one property, because the name has to do three jobs that Life 2.x
+could only do one of.
 
-The unusual extension is an asset rather than a compromise. Life 2.x on a `.xyz`
-reads as a version string, which is exactly the thesis: your life is a product
-and you are shipping point releases of it. When money enters, the calculus flips.
-The likely payer is a fifty-five year old parent, and a parent typing card
-details into a `.xyz` converts worse than one typing them into a `.com`. That is
-measurable rather than snobbery, and it is why the two properties eventually do
-different jobs.
+- **It has to work for the supply side.** A fifty-eight year old former partner
+  is not joining something called Life 2.x. That reads as a self-help programme
+  for somebody else, and it would quietly cost the mentors who are the moat.
+- **It has to hold more than one product.** The diagnostic, the cohorts, the
+  Circle and an institutional offering can all live under a Foundry. They cannot
+  all live under one life's version number.
+- **It has to be spellable once, on a phone.** Life 2.x carries a punctuation
+  ambiguity that leaks traffic permanently, and the first person to fall into it
+  was its own author.
 
-Send every transactional and newsletter email from the `.com` regardless of which
-site the reader is standing on. A minority of corporate mail filters still treat
-the newer extensions harshly, and the deliverability of a diagnostic result is
-not worth gambling on.
+> The Foundry is where you go. Your v2 is what you build there.
 
-**Do not buy GenXAlpha a domain.** Three properties for one founder with limited
-hours is how a project dies of admin rather than of being wrong.
+Nothing valuable is lost, because the two names were never rivals. One is a
+substring of the other. The versioning thesis survives as a word rather than a
+brand: never finished, always shipping the next point release. The punctuation
+problem disappears, everything sends from a `.com` so deliverability stops being
+a question, and there is one property to run instead of two.
+
+Keep life2x.xyz pointed at the `.com`. It costs almost nothing and stops somebody
+else picking up a phrase that will appear in the writing.
+
+**Do not buy GenXAlpha a domain either.** Multiple properties for one founder
+with limited hours is how a project dies of admin rather than of being wrong.
 
 ## Exchange — both sides
 
@@ -386,12 +392,14 @@ evidence before claims — and leave the rest where it belongs.
 
 ## Open decisions
 
-- **Naming is settled, it just was not noticed.** The Foundry is the place. Your
-  2.x is the thing you build there. GenXAlpha stays the byline on the writing,
-  because a doctrine needs an author and a product does not.
-- **Ownership versus distribution, now the domain question is settled.** Publish
-  canonically on life2x.xyz and syndicate to whichever platform holds the
-  readers, canonical link pointing home. You get the distribution and keep the
+- **Trademark clearance on Foundry.** The name is chosen but not cleared. It is
+  a crowded word, with Palantir's product the loudest thing in it. Almost
+  certainly a different class of goods, but have the mark looked at before the
+  first cohort, and register V2 Foundry as a unit rather than trying to own V2,
+  which is generic and unprotectable.
+- **Ownership versus distribution.** Publish canonically on v2foundry.com and
+  syndicate to whichever platform holds the readers, canonical link pointing
+  home. You get the distribution and keep the
   asset. It costs only the discipline of always publishing to your own site
   first.
 - **Whether the Capital sheet ships in Phase 0 at all.** It can go out as
