@@ -4,22 +4,30 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Diagnostic",
   description:
-    "Five minutes across work, capital, body and mind. No account required to see your position.",
+    "Nineteen questions. Five minutes. A Position, an Energy Index, and three moves — stated plainly. No account to see the result.",
 };
 
-export default function DiagnosticPage() {
+export default function DiagnosticLandingPage() {
   return (
-    <main className="vf-stub">
-      <p className="vf-stub__label">Coming soon</p>
-      <h1 className="vf-stub__title">Diagnostic</h1>
-      <p className="vf-stub__body">
-        One public tool. About five minutes. Four sheets, a free-text worry, then
-        Position, Energy Index, and three moves. No account to see the result —
-        the flow ships next.
+    <main className="vf-diag vf-diag--landing">
+      <p className="vf-diag__eyebrow">Phase 0 · Free</p>
+      <p className="vf-diag__brand">V2 Foundry</p>
+      <h1 className="vf-diag__title">See your position.</h1>
+      <p className="vf-diag__lede">
+        Nineteen questions. Five minutes. A Position, an Energy Index, and three
+        moves you can run this quarter — stated plainly.
       </p>
-      <Link href="/doctrine" className="vf-btn vf-btn--secondary">
-        Read the doctrine meanwhile
-      </Link>
+      <div className="vf-diag__actions">
+        <Link href="/diagnostic/run" className="vf-btn vf-btn--primary">
+          Start the diagnostic
+        </Link>
+        <Link href="/doctrine/ladder-broke-at-the-bottom" className="vf-btn vf-btn--secondary">
+          What this is
+        </Link>
+      </div>
+      <p className="vf-diag__foot">
+        No account to see results. Email only if you want to save a re-read.
+      </p>
     </main>
   );
 }
