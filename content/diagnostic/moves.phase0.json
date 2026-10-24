@@ -1,0 +1,136 @@
+{
+  "work": {
+    "_default": "Name one judgment call you own this quarter. Write the decision rule so someone else could apply it.",
+    "w1_role": {
+      "between_roles": "Treat this quarter as a position rebuild: one owned artifact and three vouchers before chasing volume applications.",
+      "not_earning": "Pick one paid or owned surface this month — even tiny — so the Work sheet has a fact to update.",
+      "studying": "Attach one real judgment artifact to your training this term — something a hiring manager can review.",
+      "employee_contractor": "Find one piece of work you can own end-to-end this quarter, not just contribute to.",
+      "freelancer_solo": "Replace one hour-sold engagement with a named offer or asset that outlives the invoice.",
+      "founder_equity": "Protect founder judgment time: cut one recurring first-pass task you still do yourself."
+    },
+    "w2_task_surface": {
+      "most_gte_75": "Cut one recurring first-pass task this month; replace the hours with a judgment artifact someone else must review.",
+      "about_half": "Shift one half-day a week from first-pass production to a reviewable decision or owned draft.",
+      "minority_lte_25": "Document the judgment work you already do so it is visible — one case write-up this month.",
+      "almost_none_judgment": "Keep the judgment surface; teach one junior or peer the decision rule you use.",
+      "unknown": "Time-log one typical week by task type. You cannot cut exposure you cannot see."
+    },
+    "w3_senior_review": {
+      "nearly_everything": "Ask for one piece this month that ships without senior rewrite — owned end-to-end.",
+      "important_pieces": "Propose the review criteria yourself once; own the standard, not only the draft.",
+      "rarely": "Invite one deliberate review on a hard call — practice being trusted, not only unsupervised.",
+      "nothing_last_stop": "Write down your decision rule for the hardest call you own; make it teachable.",
+      "na": "Name who would review a hard call if you needed one — even outside your current role."
+    },
+    "w4_ownership": {
+      "no": "Ship one owned asset this quarter — a named tool, note, or audience — even if tiny.",
+      "unsure": "List what would still be yours if you left tomorrow. If the list is empty, start one asset this month.",
+      "small_symbolic": "Grow the small asset into something material: one public or client-facing version this quarter.",
+      "yes_material": "Protect the owned asset with a weekly maintenance block; do not let first-pass work crowd it out."
+    },
+    "w5_trust_vouch": {
+      "none": "Earn one voucher this quarter: ask someone who has seen your judgment for a hard-call referral.",
+      "one_or_two": "Deepen the thin circle — one 30-minute debrief with each after a real decision this month.",
+      "small_circle_3_5": "Use the circle: run one hard decision past them before you commit.",
+      "wider_set": "Convert trust into ownership — one stake, book, or named responsibility this quarter."
+    }
+  },
+  "capital": {
+    "_default": "Write a one-page cash position this week: runway months, fixed costs, and what you will not risk until the floor is clear.",
+    "c3_runway": {
+      "lt_1": "Build a written 90-day cash floor before any new risk. Track weekly.",
+      "m1_3": "Write a 90-day cash floor this week. Track actual burn every Sunday. No new financial risk until you can see the floor.",
+      "m3_6": "Extend the floor toward six months: name one expense cut or income action this month.",
+      "m6_12": "Keep the floor; automate one payday transfer into a boring compounding vehicle you already qualify for.",
+      "gt_12": "Document the floor; decide one structural upgrade (wrapper or compounding) you can name without product shopping.",
+      "unknown": "Calculate runway in hours this weekend from cash you would actually use. Unknown is not neutral."
+    },
+    "c4_savings_rate": {
+      "negative": "Stop the bleed first: one written spending cap for thirty days before any investment talk.",
+      "none": "Start a fixed payday transfer — even small — into cash reserve until runway is visible.",
+      "under_10": "Raise the keep-rate by one clear cut or raise this quarter; track it monthly.",
+      "p10_20": "Keep the habit; route the surplus to one compounding vehicle you already understand.",
+      "over_20": "Protect the rate; name where the surplus sits so it compounds by design.",
+      "irregular": "Replace irregularity with one fixed transfer for the next eight weeks; adjust after."
+    },
+    "c5_debt": {
+      "distressed": "Name the full debt stack on one page this week. Get one human with scars on the call before new risk.",
+      "heavy": "List payments that constrain choices; pick one to renegotiate or accelerate this quarter.",
+      "manageable": "Keep payments current; do not add consumer debt while building the cash floor.",
+      "none_worry": "Leave debt alone; put attention on runway and compounding structure.",
+      "prefer_not": "If you can, write the debt picture privately this week — structure needs a fact, not a mood."
+    },
+    "c6_compounds_wrappers": {
+      "neither": "Open one boring compounding vehicle you already qualify for; fund it on payday once. Educational — not a product push.",
+      "unknown": "Learn the wrapper names for your residence pack this week. Glossary only — no product to buy yet.",
+      "wrappers_only": "Put something that compounds by design inside a wrapper you already have — once, on payday.",
+      "compounds_only": "Name one tax wrapper you already qualify for; confirm whether you use it. Education, not advice.",
+      "both": "Keep funding on payday; review the structure once this quarter, not the price chatter daily."
+    }
+  },
+  "body": {
+    "_default": "Pick one body constraint — sleep window or two training sessions — and hold it for fourteen days before adding goals.",
+    "b1_sleep_hours": {
+      "under_6": "Fix a sleep window for fourteen nights (±30 minutes) before changing training. Protect the hours first.",
+      "h6_7": "Add thirty minutes to the sleep window for fourteen nights; hold bedtime ±30 minutes.",
+      "h7_8": "Keep the hours; lock consistency next — same window ±30 minutes for fourteen nights.",
+      "over_8": "Keep the hours; check consistency and hard-day capacity before adding load.",
+      "inconsistent": "Pick a sleep window and hold it for fourteen nights (±30 minutes). Do not add training goals until that sticks."
+    },
+    "b2_sleep_consistency": {
+      "d0_1": "Pick a sleep window and hold it for fourteen nights (±30 minutes). Do not add training goals until that sticks.",
+      "d2_3": "Raise stable nights to at least four this fortnight — same bedtime ±30 minutes.",
+      "d4_5": "Push toward six stable nights; protect the window on the two weak nights.",
+      "d6_7": "Maintain the window; put the next Body move on training or hard-day capacity."
+    },
+    "b3_training_days": {
+      "d0": "Two training sessions per week, scheduled like meetings, for the next eight weeks.",
+      "d1_2": "Hold two sessions as non-negotiable; add a third only after four clean weeks.",
+      "d3_4": "Keep the cadence; protect sleep so training does not steal recovery.",
+      "d5_plus": "Audit recovery: if hard-day capacity is low, cut volume before cutting sleep."
+    },
+    "b4a_hard_day_capacity": {
+      "rarely": "Treat capacity as the constraint: fourteen nights of sleep window before any new ambition.",
+      "some_weeks": "Stabilize sleep and two training days; reassess hard-day capacity in three weeks.",
+      "most_days": "Keep the base; do not trade sleep for more output this quarter.",
+      "nearly_always": "Maintain; put Body attention on the weaker sleep or training signal if any."
+    },
+    "b4b_alcohol_dull_evenings": {
+      "d5_plus": "Cut dulling evenings to two or fewer for twenty-one days. Protect the next morning.",
+      "d3_4": "Cut dulling evenings by half for twenty-one days. Protect the next morning.",
+      "d1_2": "Keep dulling evenings rare; never stack them before a hard day you care about.",
+      "d0": "Keep it. Put Body attention on sleep or training instead.",
+      "prefer_not": "If alcohol is dulling mornings, cut those evenings for twenty-one days — privately, without theatre."
+    }
+  },
+  "mind": {
+    "_default": "Protect one forty-five-minute attention block daily for twenty-one days, and name the direction in one sentence.",
+    "m1_attention_block": {
+      "under_20m": "One protected 45-minute block daily, phone out of the room. Non-negotiable for 21 days.",
+      "none_protected": "One protected 45-minute block daily, phone out of the room. Non-negotiable for 21 days.",
+      "m20_45": "Extend the protected block to forty-five minutes daily for twenty-one days.",
+      "m45_90": "Defend the block; put the next Mind move on direction or decision partners.",
+      "over_90m": "Keep the deep block; use one session this week to write your two-to-three-year direction in one sentence."
+    },
+    "m2_direction": {
+      "none_reactive": "Write one sentence for the next two-to-three years. Put it where you see it every Monday.",
+      "competing": "Pick one primary direction for this quarter; park the others on a dated list.",
+      "rough": "Sharpen the fog into one sentence someone else would recognise — this week.",
+      "clear": "Keep the sentence visible; check weekly whether this week’s work serves it."
+    },
+    "m3_decision_partners": {
+      "nobody": "Name one person with more scars than you; ask for one 30-minute call this month before your next hard decision.",
+      "partner_family": "Add one peer or senior outside the household for the next hard call this month.",
+      "peers": "Keep the peers; add one person with more scars for a single hard decision this quarter.",
+      "one_senior": "Use them before the next hard call — schedule the conversation, do not wait for crisis.",
+      "circle": "Run one real decision through the circle this month; write what you learned."
+    },
+    "m4_story_strain": {
+      "system_pointless": "Replace the dead-end story with one next useful move on paper each Monday for four weeks.",
+      "i_am_the_problem": "When the bad month hits, write three facts and one next move before the self-verdict.",
+      "unstable": "Adopt one default line: this is weather — keep the next useful move. Use it for thirty days.",
+      "weather_next_move": "Keep the weather story; pair it with a named decision partner for hard calls."
+    }
+  }
+}
