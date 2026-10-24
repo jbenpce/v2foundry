@@ -464,12 +464,325 @@ input {
   max-width: 34ch;
 }
 
+/* ——— Doctrine index ——— */
+
+.vf-doctrine {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  width: 100%;
+  max-width: 42rem;
+  padding:
+    clamp(2.5rem, 7vh, 4.5rem)
+    clamp(1.25rem, 4vw, 2.75rem)
+    clamp(3rem, 8vh, 5rem);
+}
+
+.vf-doctrine__eyebrow,
+.vf-essay__eyebrow {
+  margin: 0 0 0.75rem;
+  font-family: var(--vf-font-display);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--vf-ember);
+}
+
+.vf-essay__eyebrow a {
+  color: var(--vf-ember);
+}
+
+.vf-essay__eyebrow a:hover {
+  color: var(--vf-ember-bright);
+}
+
+.vf-doctrine__title {
+  margin: 0 0 0.85rem;
+  font-family: var(--vf-font-display);
+  font-weight: 700;
+  font-size: clamp(2.25rem, 6vw, 3.25rem);
+  line-height: 1.05;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.vf-doctrine__lede,
+.vf-doctrine__empty {
+  margin: 0 0 2.5rem;
+  color: var(--vf-paper-muted);
+  max-width: 38ch;
+}
+
+.vf-doctrine__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid color-mix(in srgb, var(--vf-paper) 10%, transparent);
+}
+
+.vf-doctrine__item {
+  border-bottom: 1px solid color-mix(in srgb, var(--vf-paper) 10%, transparent);
+}
+
+.vf-doctrine__link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.35rem 0;
+  transition: color 180ms ease;
+}
+
+.vf-doctrine__link:hover {
+  color: inherit;
+}
+
+.vf-doctrine__link:hover .vf-doctrine__item-title {
+  color: var(--vf-ember-bright);
+}
+
+.vf-doctrine__arg {
+  font-family: var(--vf-font-display);
+  font-size: 0.6875rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--vf-ember);
+}
+
+.vf-doctrine__item-title {
+  font-family: var(--vf-font-display);
+  font-size: clamp(1.2rem, 2.6vw, 1.45rem);
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  transition: color 180ms ease;
+}
+
+.vf-doctrine__item-desc {
+  color: var(--vf-paper-muted);
+  font-size: 0.98rem;
+  max-width: 42ch;
+}
+
+.vf-doctrine__item-meta {
+  font-family: var(--vf-font-display);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--vf-paper-faint);
+  margin-top: 0.25rem;
+}
+
+/* ——— Essay ——— */
+
+.vf-essay {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  width: 100%;
+  max-width: 40rem;
+  padding:
+    clamp(2.25rem, 6vh, 4rem)
+    clamp(1.25rem, 4vw, 2.75rem)
+    clamp(3rem, 8vh, 5rem);
+}
+
+.vf-essay__header {
+  margin-bottom: 2.25rem;
+  padding-bottom: 1.5rem;
+  border-bottom: var(--vf-rule) solid var(--vf-ember);
+}
+
+.vf-essay__title {
+  margin: 0 0 1rem;
+  font-family: var(--vf-font-display);
+  font-weight: 700;
+  font-size: clamp(1.85rem, 4.5vw, 2.65rem);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+}
+
+.vf-essay__dek {
+  margin: 1rem 0 0;
+  color: var(--vf-paper-muted);
+  font-size: 1.05rem;
+  max-width: 36ch;
+}
+
+.vf-byline {
+  margin: 0;
+  font-family: var(--vf-font-display);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--vf-paper-faint);
+}
+
+.vf-byline__name {
+  color: var(--vf-paper-muted);
+}
+
+.vf-byline__sep {
+  margin: 0 0.45rem;
+  opacity: 0.7;
+}
+
+.vf-essay__footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem 1.15rem;
+  margin-top: 2.5rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid color-mix(in srgb, var(--vf-paper) 10%, transparent);
+}
+
+/* ——— Prose ——— */
+
+.vf-prose {
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+.vf-prose__h2 {
+  margin: 2.35rem 0 0.85rem;
+  font-family: var(--vf-font-display);
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: -0.01em;
+}
+
+.vf-prose__h3 {
+  margin: 1.85rem 0 0.65rem;
+  font-family: var(--vf-font-display);
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.vf-prose__p {
+  margin: 0 0 1.15rem;
+  color: color-mix(in srgb, var(--vf-paper) 92%, transparent);
+}
+
+.vf-prose__ul,
+.vf-prose__ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.25rem;
+  color: color-mix(in srgb, var(--vf-paper) 92%, transparent);
+}
+
+.vf-prose__li {
+  margin-bottom: 0.4rem;
+}
+
+.vf-prose__quote {
+  margin: 1.5rem 0;
+  padding: 0.15rem 0 0.15rem 1.15rem;
+  border-left: var(--vf-rule) solid var(--vf-ember);
+  color: var(--vf-paper);
+  font-family: var(--vf-font-display);
+  font-size: 1.15rem;
+  line-height: 1.45;
+}
+
+.vf-prose__quote p {
+  margin: 0;
+  color: inherit;
+}
+
+.vf-prose__strong {
+  font-weight: 600;
+  color: var(--vf-paper);
+}
+
+.vf-prose__em {
+  font-style: italic;
+}
+
+.vf-prose__a {
+  color: var(--vf-ember-bright);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.vf-prose__hr {
+  border: 0;
+  border-top: 1px solid color-mix(in srgb, var(--vf-paper) 12%, transparent);
+  margin: 2rem 0;
+}
+
+.vf-prose__del {
+  opacity: 0.55;
+  text-decoration: line-through;
+}
+
+.vf-prose__table-wrap {
+  margin: 1.5rem 0 1.75rem;
+  overflow-x: auto;
+}
+
+.vf-prose__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.vf-prose__table th,
+.vf-prose__table td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.7rem 0.85rem 0.7rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--vf-paper) 12%, transparent);
+}
+
+.vf-prose__table th {
+  font-family: var(--vf-font-display);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--vf-ember);
+}
+
+.vf-prose__table td {
+  color: var(--vf-paper-muted);
+}
+
+/* ——— Monday move ——— */
+
+.vf-monday {
+  margin-top: 2.75rem;
+  padding-top: 1.5rem;
+  border-top: var(--vf-rule) solid var(--vf-ember);
+}
+
+.vf-monday__label {
+  margin: 0 0 0.65rem;
+  font-family: var(--vf-font-display);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--vf-ember);
+}
+
+.vf-monday__body {
+  color: var(--vf-paper);
+  font-size: 1.05rem;
+  line-height: 1.55;
+  max-width: 38ch;
+}
+
+.vf-monday__body p {
+  margin: 0;
+}
+
 @media (max-width: 540px) {
   .vf-nav__links {
     gap: 0.85rem;
   }
 
-  .vf-hero__ctas {
+  .vf-hero__ctas,
+  .vf-essay__footer {
     width: 100%;
   }
 
