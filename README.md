@@ -54,6 +54,7 @@ number that moves when the whole system improves.
 
 - [`docs/CONCEPT.md`](docs/CONCEPT.md) — the full concept brief.
 - [`docs/PHASE-0.md`](docs/PHASE-0.md) — what ships first and how it is judged.
+- [`docs/DNS-CUTOVER.md`](docs/DNS-CUTOVER.md) — point v2foundry.com at the host; life2x.xyz redirect + renewal.
 
 ## Relationship to AEGISfo
 
